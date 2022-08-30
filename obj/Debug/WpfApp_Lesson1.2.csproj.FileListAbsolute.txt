@@ -1,0 +1,16 @@
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\bin\Debug\WpfApp_Lesson1.2.exe.config
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\bin\Debug\WpfApp_Lesson1.2.exe
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\bin\Debug\WpfApp_Lesson1.2.pdb
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\WpfApp_Lesson1.2.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\WpfApp_Lesson1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\MainWindow.g.cs
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\App.g.cs
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\WpfApp_Lesson1.2_MarkupCompile.cache
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\WpfApp_Lesson1.2_MarkupCompile.lref
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\MainWindow.baml
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\WpfApp_Lesson1.2.g.resources
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\WpfApp_Lesson1._2.Properties.Resources.resources
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\WpfApp_Lesson1.2.csproj.GenerateResource.cache
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\WpfApp_Lesson1.2.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\WpfApp_Lesson1.2.exe
+C:\Users\Hafiz\source\vs2022\WpfApp_Lesson1.2\WpfApp_Lesson1.2\obj\Debug\WpfApp_Lesson1.2.pdb
